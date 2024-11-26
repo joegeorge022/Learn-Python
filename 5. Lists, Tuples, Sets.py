@@ -2,9 +2,8 @@
 
 # List [] = mutable(changeable), most flexible
 # Tuple () = immutable(unchanging), faster
-# Set {} = mutable (add/remove), unordered,
-#        NO duplicates, best for membership testing
-
+# Set {} = mutable (add/remove), unordered,     NO duplicates, best for membership testing
+# Dictionary {} =
 
 
 # LIST []
@@ -68,5 +67,5 @@ else:
 
 
 
-
+# DICTIONARY {}  
 
